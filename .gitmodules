@@ -1,0 +1,3 @@
+[submodule "App_Flutter"]
+	path = App_Flutter
+	url = https://github.com/parkwonhee1219/WallMaria_ver2.git
